@@ -1,4 +1,8 @@
-# music-app
+# music-app 
+
+## Preview Link
+
+vue-music-app: https://goofy-mayer-78ec5d.netlify.app/
 
 ## Project setup
 ```
